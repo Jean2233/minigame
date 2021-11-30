@@ -1,0 +1,1 @@
+UPDATE `minigame_accounts` SET last_score=?, total_score=?;

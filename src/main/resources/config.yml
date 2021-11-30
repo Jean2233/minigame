@@ -1,0 +1,13 @@
+mysql:
+  connection-url: 'jdbc:mysql://localhost:3306/database?autoReconnect=true'
+  username: 'username'
+  password: 'password'
+
+settings:
+  min-players: 2
+
+rewards:
+  - 'give @player diamond 16'
+  - 'give @player golden_apple 8'
+
+arenas: []

@@ -1,0 +1,1 @@
+INSERT INTO `minigame_accounts` VALUES (?,?,?,?);

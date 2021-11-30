@@ -3,3 +3,4 @@ version: '${version}'
 main: com.github.jean2233.minigame.MinigamePlugin
 api-version: 1.17
 authors: [ _harmonyguy ]
+depend: [WorldGuard]
